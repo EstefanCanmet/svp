@@ -3,7 +3,9 @@
 | Package                                                     | Version | Description                                                            |
 | ----------------------------------------------------------- | ------- | ---------------------------------------------------------------------- |
 | [`@sunspec/pysunspec`][pysunspec-url]                       | 2.0.0   | Custom library packages needed to run OpenSVP                          |
-
+### Software requirements
+* Python 2.7 
+* Git
 ### Install dependencies
 
 The list packages required are included in ./svp_requirements 
